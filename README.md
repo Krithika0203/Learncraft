@@ -1,27 +1,3 @@
----
-title: LearnCraft
-emoji: 🎓
-colorFrom: blue
-colorTo: purple
-sdk: streamlit
-sdk_version: 1.32.0
-app_file: app.py
-pinned: true
-license: mit
-short_description: Personalized AI Learning Platform
-tags:
-  - education
-  - learning
-  - ai-tutor
-  - quiz
-  - flashcards
-  - groq
-  - llama
-  - streamlit
-  - gamification
-  - study-tools
----
-
 # 🎓 LearnCraft — Personalized AI Learning Platform
 
 > Generate personalized study material, flashcards & quizzes tailored exactly to your level and learning goals — powered by **Groq LLaMA-3.3-70b**.
